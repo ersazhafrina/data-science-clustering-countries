@@ -59,12 +59,12 @@ df = pd.read_csv('Data_Negara_HELP.csv')
    Countries that need to be focused on:
    From the results that have been shown previously, there are 3 countries that need to be focused on in the following order:
    
-   1)Congo, Dem. Rep.
+   - Congo, Dem. Rep.
    This country has a low GDP per capita and low income and high child mortality and fertility rates. Because this country is included in 2 factors with 4 parameters in it, so      this country is the main focus for assistance.
    
-   2) Burundi
+   - Burundi
    This country has a GDP per capita and low income and high fertility rate. Because this country is included in 2 factors with 3 parameters in it, so this country is one of the    focuses for assistance.
    
-   3) Guinea
+   - Guinea
    The country has a low GDP per capita and low income and high child mortality. Because this country is included in 2 factors with 3 parameters in it, so this country is also      one of the focuses for assistance.
 
