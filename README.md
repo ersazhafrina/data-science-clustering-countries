@@ -92,3 +92,4 @@ After making the elbow method and determining how many clusters to use, here are
    - Guinea
    The country has a low GDP per capita and low income and high child mortality. Because this country is included in 2 factors with 3 parameters in it, so this country is also one of the focuses for assistance.
 
+Article Link : https://medium.com/@ersazhafrina/data-science-clustering-countries-with-k-means-clustering-616c16b57fd7
